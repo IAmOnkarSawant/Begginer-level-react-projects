@@ -1,0 +1,22 @@
+.avatarstyle img
+{
+    width: 200px;
+    height: 200px;
+}
+.mainpage{
+    width:90%;
+    height: 100vh;
+    margin: auto;
+    background-color: teal;
+}
+.mainpage h1{
+    margin: o;
+    padding: 20px 0;
+    text-align: center;
+    background: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.butt{
+    text-align: center;
+}
